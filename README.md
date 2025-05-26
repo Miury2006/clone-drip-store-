@@ -1,2 +1,1 @@
-# clone-drip-store-
-Clone do projeto drip store
+# Projeto Drip Store

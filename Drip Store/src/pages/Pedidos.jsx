@@ -1,6 +1,6 @@
 
 export const Pedidos = () => {
   return (
-    <h1>Página de Pedidos</h1>
+    <h1 style={{textAlign: 'center'}}>Página de Pedidos</h1>
   );
 }

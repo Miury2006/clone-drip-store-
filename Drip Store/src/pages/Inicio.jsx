@@ -1,6 +1,6 @@
 
 export const Inicio = () => {
   return (
-    <h1>Página de Início</h1>
+    <h1 style={{textAlign: 'center'}}>Página de Início</h1>
   );
 }

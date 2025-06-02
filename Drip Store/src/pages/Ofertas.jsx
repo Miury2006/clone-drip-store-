@@ -1,6 +1,6 @@
 
 export const Ofertas = () => {
   return (
-    <h1>Página de Ofertas</h1>
+    <h1 style={{textAlign: 'center'}}>Página de Ofertas</h1>
   );
 }
